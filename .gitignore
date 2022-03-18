@@ -1,0 +1,7 @@
+.vscode
+*.xml
+*.out
+*.txt
+*.png
+*.csv
+*.zip
